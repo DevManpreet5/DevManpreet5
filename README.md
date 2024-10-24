@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌟 Passionate about developing innovative web solutions.<br>- 🧩 Solving problems with machine learning models.<br>- 🎓 Always learning and sharing knowledge.<br>- 💡 Interested in tech that makes a difference.<br>- 🏫 Studying at TIET Patiala.
+ 🌟 Passionate about developing innovative web solutions.<br>- 🧩 Solving problems with machine learning models.<br>- 🏫 Studying at TIET Patiala.
 
 
 ## 🌐 Socials:
