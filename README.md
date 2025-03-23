@@ -1,6 +1,37 @@
 # 💫 About Me:
- Hi there! I'm a passionate **AI/ML Engineer & Data Engineer** with expertise in **Machine Learning, Deep Learning and MLOps**.  
-I love solving real-world problems, optimizing ML models, and building scalable data pipelines.  
+ 
+<div align="center">
+    <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Bread Duck" style="width:100%">
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+Manpreet;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>
+</div>
+
+
+<div align="left">
+    <h2>About Me</h2>
+    <table>
+        <tr>
+            <td width="70%">
+                <p> Hey! 👋 I'm an <strong>AI/ML Engineer</strong> who enjoys working with  
+                    <strong>Machine Learning, Deep Learning, GANs, and MLOps</strong>.  
+                </p>
+                <p> I like: </p>
+                <ul>
+                    <li>🧠 Training deep learning models & optimizing performance.</li>
+                    <li>🎨 Working with GANs & generative AI for real-world tasks.</li>
+                    <li>📊 Building data pipelines to make AI systems scalable.</li>
+                    <li>🔍 Exploring new AI research & improving existing models.</li>
+                </ul>
+                <p> Always up for learning new things and building cool projects. 🚀 </p>
+            </td>
+            <td align="center" width="30%">
+                <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat coding GIF">
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 
 ## 🌐 Socials:
