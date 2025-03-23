@@ -26,10 +26,12 @@ I love solving real-world problems, optimizing ML models, and building scalable 
 
 
 
-![Manpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevManpreet5&show_icons=true&theme=algolia)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevManpreet5&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManpreet5&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
 
----
-[![](https://visitcount.itsvg.in/api?id=DevManpreet5&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![Manpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevManpreet5&show_icons=true&theme=algolia)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=DevManpreet5&theme=algolia&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManpreet5&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</details>
 
