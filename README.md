@@ -1,8 +1,19 @@
 # 💫 About Me:
  
+<!-- 
 <div align="center">
     <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Bread Duck" style="width:100%">
 </div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+Manpreet;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>
+</div>
+-->
+
+<!-- ✅ New Banner -->
+<div align="center">
+  <img src="gpubanner.png" alt="Manpreet Singh Banner" style="width:100%; border-radius: 12px;" />
+</div>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+Manpreet;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
@@ -14,14 +25,15 @@
         <tr>
             <td width="70%">
                 <p> Hey! 👋 I'm an <strong>AI/ML Engineer</strong> who enjoys working with  
-                    <strong>Machine Learning, Deep Learning, GANs, and MLOps</strong>.  
+                    <strong>HPC, Machine Learning, Deep Learning, GANs, and MLOps</strong>.  
                 </p>
                 <p> I like: </p>
                 <ul>
-                    <li>🧠 Training deep learning models & optimizing performance.</li>
-                    <li>🎨 Working with GANs & generative AI for real-world tasks.</li>
-                    <li>📊 Building data pipelines to make AI systems scalable.</li>
-                    <li>🔍 Exploring new AI research & improving existing models.</li>
+                    <li> Making <strong>BioAI & Computational Biology Inference</strong> go BRRRRR on <strong>AMD & NVIDIA GPUs</strong>.</li>
+                    <li> Training deep learning models & optimizing performance.</li>
+                    <li> Working with GANs & generative AI for real-world tasks.</li>
+                    <li> Building data pipelines to make AI systems scalable.</li>
+                    <li>Exploring new AI research & improving existing models related to Bio.</li>
                 </ul>
                 <p> Always up for learning new things and building cool projects. 🚀 </p>
             </td>
@@ -34,6 +46,7 @@
 
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-singh-68718a20b) 
 
@@ -41,7 +54,8 @@
 # 💻 Tech Stack:
 
 ### 🔥 Machine Learning & AI  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Triton](https://img.shields.io/badge/Triton-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)![ROCm](https://img.shields.io/badge/ROCm-%23E95420.svg?style=for-the-badge&logo=amd&logoColor=white)
+
 
 ### 📊 MLOps  
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)  
