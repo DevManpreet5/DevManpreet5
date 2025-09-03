@@ -1,5 +1,4 @@
-# 💫 About Me:
- 
+
 <!-- 
 <div align="center">
     <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Bread Duck" style="width:100%">
