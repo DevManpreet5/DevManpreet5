@@ -1,4 +1,3 @@
-
 <!-- 
 <div align="center">
     <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Bread Duck" style="width:100%">
@@ -23,18 +22,17 @@
     <table>
         <tr>
             <td width="70%">
-                <p> Hey! 👋 I'm an <strong>AI/ML Engineer</strong> who enjoys working with  
-                    <strong>HPC, Machine Learning, Deep Learning, GANs, and MLOps</strong>.  
+                <p> Hey! 👋 I'm an <strong>AI/ML Engineer</strong> focused on  
+                    <strong>GPU Systems, High-Performance AI, Computational Biology, and ML Systems</strong>.  
                 </p>
-                <p> I like: </p>
+                <p> Accepted work at <strong>ICML 2026, ACM ICS 2026, EurIPS 2025, ISC 2026, and RECOMB-ARCH 2026</strong>. 🚀 </p>
+                <p> Currently working on: </p>
                 <ul>
-                    <li> Making <strong>BioAI & Computational Biology Inference</strong> go BRRRRR on <strong>AMD & NVIDIA GPUs</strong>.</li>
-                    <li> Training deep learning models & optimizing performance.</li>
-                    <li> Working with GANs & generative AI for real-world tasks.</li>
-                    <li> Building data pipelines to make AI systems scalable.</li>
-                    <li>Exploring new AI research & improving existing models related to Bio.</li>
+                    <li> Building <strong>portable Triton GPU kernels</strong> for biological foundation models across <strong>AMD & NVIDIA GPUs</strong>.</li>
+                    <li> Accelerating protein design, molecular simulations, and genomic foundation models.</li>
+                    <li> Developing <strong>BioTriton</strong>, an open-source acceleration library for Bio × GPU workloads.</li>
+                    <li> Driving advancements in <strong>high-performance AI systems & computational biology</strong>.</li>
                 </ul>
-                <p> Always up for learning new things and building cool projects. 🚀 </p>
             </td>
             <td align="center" width="30%">
                 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat coding GIF">
@@ -44,10 +42,9 @@
 </div>
 
 
-
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-singh-68718a20b) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-singh-68718a20b)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-blue)](https://huggingface.co/devmanpreet)
 
 
 # 💻 Tech Stack:
@@ -78,4 +75,3 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevManpreet5&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
-
